@@ -1,10 +1,50 @@
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-html,body {
-height:100%;
-width:100%;
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    padding: 35px;
+    /* margin-top: 30px; */
+}
+
+.head a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5vw;
+    font-weight: 900;
+}
+
+.first-section {
+    padding: 45px;
+    display: inline-block;
+}
+
+.first-section .product {
+    font-size: 10vw;
+    line-height: 12vh;
+    opacity: 0.5;
+}
+
+.first-section .designer {
+    font-size: 10vw;
+    margin-left: 10vw;
+    opacity: 0.5;
+    
+}
+
+.first-section .based {
+    text-align: end;
+    margin-top: -10px;
 }
