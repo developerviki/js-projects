@@ -39,13 +39,16 @@ body {
     font-weight: 900;
 }
 
+
 .blocktext {
     width: fit-content;
 }
 
+
 .blocktext h1 {
     margin-left: 130px;
 }
+
 
 .blocktext p {
     text-align: right;
