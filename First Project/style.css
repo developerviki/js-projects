@@ -80,6 +80,7 @@ body {
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
+    padding: 4vw 3vw;
 }
 
 .third-section .third-first {
@@ -108,4 +109,10 @@ body {
     text-align: center;
     border-radius: 50%;
 
+}
+.elements{
+    border-top: 2px solid #888;
+    width: 90%;
+    padding: 4vw 3vw;
+    margin-left: 5%;
 }
