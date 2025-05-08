@@ -80,7 +80,6 @@ body {
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 4vw 3vw;
 }
 
 .third-section .third-first {
@@ -110,9 +109,23 @@ body {
     border-radius: 50%;
 
 }
-.elements{
-    border-top: 2px solid #888;
-    width: 90%;
+.fourth-section{
     padding: 4vw 3vw;
-    margin-left: 5%;
+}
+.elements{
+    border-top: 1px solid #888;
+    width: 90%;
+    /* padding: 4vw 3vw; */
+    /* margin-left:4%; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 0;
+}
+.elements h1{
+    font-size: 8vw;
+    opacity: .7;
+}
+.elements p {
+    font-weight: bold;
 }
