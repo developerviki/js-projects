@@ -124,6 +124,7 @@ body {
 }
 .elements h1{
     font-size: 8vw;
+    cursor: 'pointer';
     opacity: .7;
 }
 .elements p {
