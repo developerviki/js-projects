@@ -212,3 +212,12 @@ body {
     font-size: 12px;
     text-decoration: none;
 }
+
+.six-first{
+    opacity: 0.5;
+}
+
+.youtube{
+    display: flex;
+    gap: 20px;
+}
